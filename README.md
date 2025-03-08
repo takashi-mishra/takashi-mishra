@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Mishra</h1>
 <h3 align="center">A passionate full Stack MERN developer from India</h3>
  
-<img align "right" alt ="coding" width = "400" src = "![image](https://github.com/user-attachments/assets/91046bf4-f842-41e3-b519-31bf2b93bee9)
-" />
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width ="400" align = "right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takashi-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="takashi-mishra" /> </p>
 
