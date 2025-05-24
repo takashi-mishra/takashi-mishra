@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takashi-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="takashi-mishra" /> </p>
 
-- 🔭 I’m currently working on [Static web page for an Electronic shop](https://new-kumar-electronic.vercel.app/)
-
 - 🌱 I’m currently learning **Three.js,**
 
 - 📫 How to reach me **yogeshmishra4822@gmail.com**
